@@ -1,4 +1,4 @@
-Slack API in Go [![Go Reference](https://pkg.go.dev/badge/github.com/slack-go/slack.svg)](https://pkg.go.dev/github.com/slack-go/slack)
+Slack API in Go [![Go Reference](https://pkg.go.dev/badge/github.com/nakatanakatana/slack.svg)](https://pkg.go.dev/github.com/nakatanakatana/slack)
 ===============
 
 This is the original Slack library for Go created by Norberto Lopes, transferred to a GitHub organization.
@@ -72,19 +72,19 @@ func main() {
 
 ## Minimal Socket Mode usage:
 
-See https://github.com/slack-go/slack/blob/master/examples/socketmode/socketmode.go
+See https://github.com/nakatanakatana/slack/blob/master/examples/socketmode/socketmode.go
 
 
 ## Minimal RTM usage:
 
 As mentioned in https://api.slack.com/rtm - for most applications, Socket Mode is a better way to communicate with Slack.
 
-See https://github.com/slack-go/slack/blob/master/examples/websocket/websocket.go
+See https://github.com/nakatanakatana/slack/blob/master/examples/websocket/websocket.go
 
 
 ## Minimal EventsAPI usage:
 
-See https://github.com/slack-go/slack/blob/master/examples/eventsapi/events.go
+See https://github.com/nakatanakatana/slack/blob/master/examples/eventsapi/events.go
 
 
 ## Contributing

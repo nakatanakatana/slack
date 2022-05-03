@@ -19,7 +19,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/slack-go/slack/internal/misc"
+	"github.com/nakatanakatana/slack/internal/misc"
 )
 
 // SlackResponse handles parsing out errors from the web api.
